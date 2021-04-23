@@ -10,7 +10,6 @@ import './App.css';
 
 function App() {
   return (<div className="App">
-    
     <Navbar/>
 
     <Router>
@@ -25,3 +24,6 @@ function App() {
 }
 
 export default App;
+
+
+// miojinlnv
